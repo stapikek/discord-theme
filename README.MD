@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/stapikek/discord-theme/refs/heads/main/fs6zUeH_d.webp
+![img](https://github.com/stapikek/discord-theme/blob/main/fs6zUeH_d.webp?raw=true)
